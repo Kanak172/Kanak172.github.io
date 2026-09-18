@@ -28,17 +28,39 @@ A drone cybersecurity testbed designed for experimenting with and analyzing dron
 
 **Technologies:** Python, Django, ArduPilot SITL, DroneKit, MAVLink, WebSockets
 
+
+### DroneShieldX — Drone Cybersecurity Testbed
+
+A cybersecurity research and education testbed for simulating drone security scenarios using ArduPilot SITL and MAVLink, with integrated detection, defense, and real-time monitoring.
+
+**Technologies:** Python · Django · ArduPilot SITL · DroneKit · MAVLink · WebSockets · Figma · Vercel
+
+**Highlights:**
+
+* Simulated drone security scenarios in a controlled environment
+* Intrusion and anomaly detection mechanisms
+* GPS spoofing and communication-threat detection
+* Real-time drone status, threat, and alert monitoring
+* Responsive web dashboard for security visualization
+
+[View Project](https://github.com/shining-bluemoon-11/drone-hacking-simulator) · [Live Dashboard](https://droneshieldx.vercel.app)
+
+
 ### Fake News Detector
 
-A machine-learning application for detecting and analyzing potentially misleading news content.
+A web-based AI/ML prototype that analyzes news articles for legitimacy, category, and summarized content.
 
-**Technologies:** Python, Flask, Machine Learning, NLP, HTML, CSS
+**Technologies:** Python, Flask, HTML, CSS, JavaScript, Machine Learning
 
-**Features:**
+**Highlights:**
 
-* News classification
-* Category detection
-* Text summarization
+* News article input through text or file upload
+* Flask-based `/analyze` API
+* Fake-news detection and category classification
+* Automatic text summarization
+* Results interface and feedback functionality
+
+[View Project](https://github.com/AVIRAL017/MINI-PROJECT)
 
 ## Certifications & Achievements
 
