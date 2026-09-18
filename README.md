@@ -144,14 +144,10 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 
 ## 📜 Certifications & Achievements
 
-* 🏅 Infosys — Python
-* 🏅 Infosys — HTML5 & CSS3
 * 🏅 Microsoft — Artificial Intelligence
 * 🏅 Microsoft — Responsible AI
 * 🏅 Microsoft — Azure Machine Learning
 * 🏆 GDG Campus Solution Challenge 2025
-* 🏆 ICNGTSE 2025
-* 🏆 CampusCrew 100K Milestone Honor
 
 ---
 
