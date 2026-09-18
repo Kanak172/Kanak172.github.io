@@ -34,19 +34,39 @@ Building practical AI/ML solutions while continuously learning, experimenting, a
 
 ### ⚡ Programming
 
-`Python` `SQL`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### 🤖 AI / Machine Learning
 
-`Machine Learning` `NLP` `Data Analysis`
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge"/>
+</p>
 
 ### 🌐 Web Development
 
-`Flask` `Django` `HTML` `CSS` `JavaScript`
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ### 🛠️ Tools & Technologies
 
-`Git` `GitHub` `ArduPilot SITL` `MAVLink` `WebSockets`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArduPilot-212121?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MAVLink-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge"/>
+</p>
+
 
 ---
 
@@ -68,7 +88,9 @@ A cybersecurity research and education testbed for exploring drone security scen
 * 🔹 Real-time drone status and security monitoring
 * 🔹 Web-based dashboard for security visualization
 
-[🔗 View Project](https://github.com/shining-bluemoon-11/drone-hacking-simulator) · [🌐 Live Dashboard](https://droneshieldx.vercel.app)
+**🔗 Project Links**
+
+[GitHub Repository](https://github.com/shining-bluemoon-11/drone-hacking-simulator) · [Live Dashboard](https://droneshieldx.vercel.app)
 
 ---
 
@@ -88,7 +110,10 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 * 🔹 Automatic text summarization
 * 🔹 Results interface and feedback functionality
 
-[🔗 View Project](https://github.com/AVIRAL017/MINI-PROJECT)
+**🔗 Project**
+
+[GitHub Repository](https://github.com/AVIRAL017/MINI-PROJECT)
+
 
 ---
 
@@ -98,11 +123,30 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 
 ---
 
+## 🔬 What I'm Working On
+
+* 🐍 Strengthening my **Python** programming and problem-solving skills
+* 🧩 Practicing **Data Structures & Algorithms**
+* 🗄️ Improving my **SQL and database** skills
+* 🤖 Building and experimenting with **AI/ML projects**
+* 🔧 Improving my **Git and GitHub** workflow
+* 🚀 Developing projects that combine **AI/ML with practical applications**
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kanak172&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanak172&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kanak172&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -133,6 +177,13 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 </a>
 
 </p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kanak172&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
+</p>
+
+
 
 ---
 
