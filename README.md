@@ -1,21 +1,20 @@
-<h1 align="center">⚡ <span style="color:#00FFFF;">KANAK KUSHWAHA</span> ⚡</h1>
+<div align="center">
 
-<p align="center">
-  <strong>🤖 B.Tech Artificial Intelligence & Machine Learning</strong>
+# ⚡ KANAK KUSHWAHA ⚡
+
+### 🤖 B.Tech Artificial Intelligence & Machine Learning
+
+**Python** · **Machine Learning** · **Data Science** · **AI**
+
+<p>
+Building practical AI/ML solutions while continuously learning, experimenting, and improving.
 </p>
 
-<p align="center">
-  <span style="color:#00FF9C;">Python</span> •
-  <span style="color:#00FFFF;">Machine Learning</span> •
-  <span style="color:#A855F7;">Data Science</span> •
-  <span style="color:#FF00FF;">AI</span>
-</p>
-
-<p align="center">
-  <i>Building practical AI/ML solutions with code, data, and experimentation.</i>
-</p>
+</div>
 
 ---
+
+> 🟢 **AI/ML Student** • 💻 **Python Developer** • 🧠 **Machine Learning Enthusiast**
 
 ## 🟢 About Me
 
@@ -27,7 +26,7 @@
 
 🔭 Interested in building **practical AI/ML applications**
 
-🎯 **Career Goal:** AI/ML Engineering & Internship opportunities
+🎯 **Career Goal:** Building practical AI/ML solutions and preparing for AI/ML engineering roles
 
 ---
 
@@ -43,37 +42,39 @@
 
 ### 🌐 Web Development
 
-`Flask` `Django` `HTML` `CSS`
+`Flask` `Django` `HTML` `CSS` `JavaScript`
 
 ### 🛠️ Tools & Technologies
 
-`Git` `GitHub` `ArduPilot SITL` `DroneKit` `MAVLink` `WebSockets`
+`Git` `GitHub` `ArduPilot SITL` `MAVLink` `WebSockets`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🛰️ DroneShieldX — Drone Cybersecurity Testbed
 
-A cybersecurity research and education testbed for simulating drone security scenarios using **ArduPilot SITL and MAVLink**, with integrated detection, defense, and real-time monitoring.
+A cybersecurity research and education testbed for exploring drone security scenarios in a controlled simulation environment using **ArduPilot SITL and MAVLink**.
 
 **⚙️ Technologies**
 
-`Python` · `Django` · `ArduPilot SITL` · `DroneKit` · `MAVLink` · `WebSockets` · `Figma` · `Vercel`
+`Python` · `Django` · `ArduPilot SITL` · `MAVLink` · `WebSockets` · `Figma` · `Vercel`
 
 **✨ Highlights**
 
-* 🔹 Simulated drone security scenarios in a controlled environment
-* 🔹 Intrusion and anomaly detection mechanisms
-* 🔹 GPS spoofing and communication-threat detection
-* 🔹 Real-time drone status, threat, and alert monitoring
-* 🔹 Responsive web dashboard for security visualization
+* 🔹 Controlled simulation of drone security scenarios
+* 🔹 Intrusion and anomaly detection
+* 🔹 Detection of simulated communication and navigation threats
+* 🔹 Real-time drone status and security monitoring
+* 🔹 Web-based dashboard for security visualization
+
+[🔗 View Project](https://github.com/shining-bluemoon-11/drone-hacking-simulator) · [🌐 Live Dashboard](https://droneshieldx.vercel.app)
 
 ---
 
 ### 📰 Fake News Detector
 
-A web-based AI/ML prototype that analyzes news articles for **legitimacy, category, and summarized content**.
+A web-based AI/ML prototype that analyzes news articles for **fake-news detection, category classification, and text summarization**.
 
 **⚙️ Technologies**
 
@@ -81,11 +82,13 @@ A web-based AI/ML prototype that analyzes news articles for **legitimacy, catego
 
 **✨ Highlights**
 
-* 🔹 News article input through text or file upload
+* 🔹 Accepts article text or file input
 * 🔹 Flask-based analysis API
 * 🔹 Fake-news detection and category classification
 * 🔹 Automatic text summarization
 * 🔹 Results interface and feedback functionality
+
+[🔗 View Project](https://github.com/AVIRAL017/MINI-PROJECT)
 
 ---
 
@@ -95,17 +98,35 @@ A web-based AI/ML prototype that analyzes news articles for **legitimacy, catego
 
 ---
 
+## 📜 Certifications & Achievements
+
+* 🏅 Infosys — Python
+* 🏅 Infosys — HTML5 & CSS3
+* 🏅 Microsoft — Artificial Intelligence
+* 🏅 Microsoft — Responsible AI
+* 🏅 Microsoft — Azure Machine Learning
+* 🏆 GDG Campus Solution Challenge 2025
+* 🏆 ICNGTSE 2025
+* 🏆 CampusCrew 100K Milestone Honor
+
+---
+
 ## ⚡ Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kanak-k-8b9369343/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Kanak172">
-    <img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/kanak-k-8b9369343/">
+<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Kanak172">
+<img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
+---
+
 <p align="center">
-  <strong>⚡ Learn • Build • Experiment • Improve ⚡</strong>
+<strong>⚡ Learn • Build • Experiment • Improve ⚡</strong>
 </p>
