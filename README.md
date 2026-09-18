@@ -134,14 +134,6 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 
 ---
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kanak172&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📜 Certifications & Achievements
 
 * 🏅 Microsoft — Artificial Intelligence
