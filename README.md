@@ -4,11 +4,12 @@
 
 ### 🤖 B.Tech Artificial Intelligence & Machine Learning
 
-**Python** · **Machine Learning** · **Data Science** · **AI**
+**Python** · **SQL** · **Machine Learning** · **AI**
 
 <p>
-Building practical AI/ML solutions while continuously learning, experimenting, and improving.
+Building practical AI/ML projects with Python while strengthening problem-solving, data, and machine learning skills.
 </p>
+
 
 </div>
 
@@ -20,13 +21,16 @@ Building practical AI/ML solutions while continuously learning, experimenting, a
 
 🎓 **B.Tech in Artificial Intelligence & Machine Learning** | 2024–2028
 
-💻 Focused on **Python, Machine Learning, Data Science, and AI**
+🐍 Strong foundation in **Python** with a focus on problem-solving and software development
 
-🌱 Currently strengthening my skills in **Data Structures & Algorithms, SQL, and software development**
+🗄️ **Intermediate SQL** skills with experience practicing database queries and data-related problems
 
-🔭 Interested in building **practical AI/ML applications**
+🤖 Currently developing skills in **Machine Learning, Data Science, and AI**
 
-🎯 **Career Goal:** Building practical AI/ML solutions and preparing for AI/ML engineering roles
+🧩 Practicing **Data Structures & Algorithms** to strengthen problem-solving
+
+🚀 Interested in building **practical AI/ML applications**
+
 
 ---
 
@@ -67,12 +71,11 @@ Building practical AI/ML solutions while continuously learning, experimenting, a
 <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge"/>
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🛰️ DroneShieldX — Drone Cybersecurity Testbed
+### 🛰️ DroneShieldX — Project Showcase
 
 A cybersecurity research and education testbed for exploring drone security scenarios in a controlled simulation environment using **ArduPilot SITL and MAVLink**.
 
@@ -94,7 +97,7 @@ A cybersecurity research and education testbed for exploring drone security scen
 
 ---
 
-### 📰 Fake News Detector
+### 📰 Fake News Detector — Project Showcase
 
 A web-based AI/ML prototype that analyzes news articles for **fake-news detection, category classification, and text summarization**.
 
@@ -119,18 +122,19 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 
 ## 📚 Currently Learning
 
-`DSA` · `Advanced Python` · `SQL` · `Machine Learning` · `AI/ML Projects` · `Git & GitHub`
+`DSA` · `Advanced Python` · `SQL` · `Machine Learning`
+
 
 ---
 
 ## 🔬 What I'm Working On
 
-* 🐍 Strengthening my **Python** programming and problem-solving skills
+* 🐍 Strengthening **Python** and problem-solving skills
 * 🧩 Practicing **Data Structures & Algorithms**
-* 🗄️ Improving my **SQL and database** skills
-* 🤖 Building and experimenting with **AI/ML projects**
-* 🔧 Improving my **Git and GitHub** workflow
-* 🚀 Developing projects that combine **AI/ML with practical applications**
+* 🗄️ Improving **SQL and database** skills
+* 🤖 Building practical **AI/ML projects**
+* 🚀 Developing projects that solve real-world problems
+
 
 ---
 
@@ -142,6 +146,7 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 * 🏆 GDG Campus Solution Challenge 2025
 
 ---
+
 
 ## ⚡ Connect With Me
 
@@ -156,12 +161,6 @@ A web-based AI/ML prototype that analyzes news articles for **fake-news detectio
 </a>
 
 </p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanak172&label=Profile%20Views&color=00FFFF&style=for-the-badge" />
-</p>
-
 
 
 ---
